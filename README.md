@@ -7,3 +7,5 @@ og lagres som tabell på relasjonsdatabase. Lagring av billettene kan kontroller
 localhost:8080/hemmelig-h2-console. Da aksesserer du databasen. 
 Dersom du ønsker å slette billettene du har lagt til vil du få en alert/confirmboks 
 hvor du må bekrefte at du ønsker å slette billettene. Appen kjøres via localhost:8080
+
+Appen er en del av et skoleprosjekt som har blitt utbedret over tid, både for skole og privat bruk.
