@@ -1,0 +1,27 @@
+#ticketNotFound {
+    color: red;
+    white-space: nowrap;
+}
+#numberNotFound {
+    color: red;
+    white-space: nowrap;
+}
+#nameNotFound {
+    color: red;
+    white-space: nowrap;
+}
+
+#surnameNotFound {
+    color: red;
+    white-space: nowrap;
+}
+
+#emailNotFound {
+    color: red;
+    white-space: nowrap;
+}
+
+#phoneNotFound {
+    color: red;
+    white-space: nowrap;
+}
